@@ -1,6 +1,4 @@
-# Monokai for
-
-![image](images/monokai_azure.svg)
+# Monokai for Azure Data Studio
 
 Monokai theme for Azure Data Studio.
 
