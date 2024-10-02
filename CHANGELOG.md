@@ -1,3 +1,9 @@
-# 0.0.1
+# Change Log
+
+All notable changes to the "monokai-darkplus-for-azure" extension will be documented in this file.
+
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [Unreleased]
 
 - Initial release

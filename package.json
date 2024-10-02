@@ -1,10 +1,10 @@
 {
-  "name": "monokai-for-azure",
-  "displayName": "Monokai for Azure",
-  "description": "Monokai theme for Azure Data Studio.",
-  "version": "0.0.1",
+  "name": "monokai-darkplus-for-azure",
+  "displayName": "Monokai Darkplus for Azure",
+  "description": "A combination of the famous Monokai theme with the default VsCode Dark+ theme for Azure Data Studio.",
   "author": "Filipe Andrade (https://github.com/filipeyay)",
   "publisher": "filipeyay",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.39.0",
     "azdata": "*"
@@ -20,9 +20,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai for Azure",
+        "label": "Monokai DarkPlus",
         "uiTheme": "vs-dark",
-        "path": "./themes/Monokai-color-theme.json"
+        "path": "./themes/Monokai DarkPlus-color-theme.json"
       }
     ]
   },
