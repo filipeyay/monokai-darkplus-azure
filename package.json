@@ -12,7 +12,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "image/monokai_azure.png",
+  "icon": "images/monokai_azure.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/filipeyay/azure-monokai-theme"
@@ -20,7 +20,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai",
+        "label": "Monokai for Azure",
         "uiTheme": "vs-dark",
         "path": "./themes/Monokai-color-theme.json"
       }
