@@ -1,0 +1,30 @@
+{
+  "name": "monokai-for-azure",
+  "displayName": "Monokai for Azure",
+  "description": "Monokai theme for Azure Data Studio.",
+  "version": "0.0.1",
+  "author": "Filipe Andrade (https://github.com/filipeyay)",
+  "publisher": "filipeyay",
+  "engines": {
+    "vscode": "^1.39.0",
+    "azdata": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "image/monokai_azure.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filipeyay/azure-monokai-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
