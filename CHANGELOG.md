@@ -1,9 +1,7 @@
-# Change Log
+# 1.1.0
 
-All notable changes to the "monokai-darkplus-for-azure" extension will be documented in this file.
+- Dark Modern variant
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+# 1.0.1
 
 - Initial release
